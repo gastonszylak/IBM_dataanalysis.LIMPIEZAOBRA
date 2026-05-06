@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "github",
+			"path": "."
+		},
+		{
+			"name": "analisis de datos",
+			"path": "../analisis de datos"
+		}
+	],
+	"settings": {}
+}
