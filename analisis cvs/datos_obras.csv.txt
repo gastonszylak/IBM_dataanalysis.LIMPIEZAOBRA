@@ -1,9 +1,0 @@
-id_obra,pintor_asignado,tipo_pintura,metros_cuadrados,costo_materiales,precio_cobrado,calificacion_cliente
-1,Juan,Latex,150.5,45000,120000,5
-2,Pedro,Sintetico,80.0,,85000,4
-3,Luis,Latex,220.0,60000,$180000,5
-4,Carlos,Epoxi,45.5,35000,90000,NaN
-5,Juan,Latex,NaN,42000,115000,4
-6,Pedro,Latex,110.0,30000,95000,3
-7,Carlos,Sintetico,95.0,,88000,5
-8,Luis,Epoxi,300.0,90000,$250000,NaN
